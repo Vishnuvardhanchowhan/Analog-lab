@@ -1,0 +1,30 @@
+logarithmic amp
+.include TL084.txt
+.include 1N4148_1.txt
+vin 1 0 dc 0
+x1 1 2 3 4 2 TL084
+vcc1 3 0 15
+vcc2 4 0 -15
+r 2 5 32
+d1 5 6 1N4148
+x2 0 5 7 8 6 TL084 
+r11 6 9 10K
+voff 10 0 -0.39
+r12 9 11 10k
+VCC3 7 0 +15
+vcc4 8 0 -15
+x3 10 9 12 13 11 TL084
+vcc5 12 0 15
+vcc6 13 0 -15
+X4 11 14 15 16 17 TL084
+r2 14 0 1k
+r3 14 17 19.23k
+.dc vin 0.01 0.1 0.001
+.control
+run
+plot v(17)
+.endc 
+.end
+
+
+

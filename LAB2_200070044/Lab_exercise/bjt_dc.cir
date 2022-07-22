@@ -1,0 +1,28 @@
+BJT regulator
+.subckt ZENER_12 1 2
+d1 1 2 df
+dz 3 1 dr
+vz 2 3 4.4
+.model df D ( IS=27.5p RS=0.620 N=1.10 CJO=78.3p VJ=1.00 M=0.330 TT=50.1n)
+.model dr D ( IS=5.49f RS=50 N=1.77 )
+.ends
+.include low_power_bjt.txt
+.include sl500_bjt.txt
+Q1 1 2 3 SL100	
+vin 1 0 
+rc 1 2 1k
+r1 3 5 10.21k
+r2 5 0 14.79k
+rl 3 0 1k
+Q2 2 5 4 bc547a
+x1 0 4 ZENER_12
+.dc vin 15 25 0.5 
+.control
+run
+print v(3)
+plot v(1) v(3)
+.endc 
+.end
+
+
+

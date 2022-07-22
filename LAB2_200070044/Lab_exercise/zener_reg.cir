@@ -1,0 +1,27 @@
+zener regulator
+.subckt ZENER_12 1 2
+d1 1 2 df
+dz 3 1 dr
+vz 2 3 10.8
+.model df D ( IS=27.5p RS=0.620 N=1.10 CJO=78.3p VJ=1.00 M=0.330 TT=50.1n)
+.model dr D ( IS=5.49f RS=50 N=1.77 )
+.ends
+r1  1 2 470
+vs 2 3 0
+x1 4 3 ZENER_12
+vze 4 0 0
+r2 3 5 1k
+vl 5 0 0
+vin 1 0 9
+.op
+.control
+run
+print v(2)
+print v(1)
+print i(vs)
+print i(vze)
+print i(vl)
+.endc
+.end
+
+

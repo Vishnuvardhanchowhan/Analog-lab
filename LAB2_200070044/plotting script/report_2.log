@@ -1,0 +1,348 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.29)  29 JAN 2022 18:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report_2.tex
+(./report_2.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+)
+(./report_2.aux)
+\openout1 = `report_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count176
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count177
+\nofMParguments=\count178
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen138
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 36.
+<zener_1k_cir.png, id=9, 605.26125pt x 425.59pt>
+File: zener_1k_cir.png Graphic file (type png)
+<use zener_1k_cir.png>
+Package pdftex.def Info: zener_1k_cir.png  used on input line 46.
+(pdftex.def)             Requested size: 242.1002pt x 170.23297pt.
+<zener_500_cir.png, id=11, 609.27625pt x 375.4025pt>
+File: zener_500_cir.png Graphic file (type png)
+<use zener_500_cir.png>
+Package pdftex.def Info: zener_500_cir.png  used on input line 52.
+(pdftex.def)             Requested size: 243.70618pt x 150.15834pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./zener_1k_cir.png>]
+<zener_100_cir.png, id=21, 581.17125pt x 370.38374pt>
+File: zener_100_cir.png Graphic file (type png)
+<use zener_100_cir.png>
+Package pdftex.def Info: zener_100_cir.png  used on input line 60.
+(pdftex.def)             Requested size: 232.46437pt x 148.15086pt.
+<zener_10_cir.png, id=22, 609.27625pt x 356.33125pt>
+File: zener_10_cir.png Graphic file (type png)
+<use zener_10_cir.png>
+Package pdftex.def Info: zener_10_cir.png  used on input line 67.
+(pdftex.def)             Requested size: 243.70618pt x 142.52997pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./zener_500_cir.png> <./zener_100_cir.png>]
+<zener_1_cir.png, id=28, 592.2125pt x 416.55624pt>
+File: zener_1_cir.png Graphic file (type png)
+<use zener_1_cir.png>
+Package pdftex.def Info: zener_1_cir.png  used on input line 75.
+(pdftex.def)             Requested size: 236.8808pt x 166.61954pt.
+ [4 <./zener_10_cir.png> <./zener_1_cir.png>]
+<BJT_reg_cir.png, id=34, 719.68875pt x 491.8375pt>
+File: BJT_reg_cir.png Graphic file (type png)
+<use BJT_reg_cir.png>
+Package pdftex.def Info: BJT_reg_cir.png  used on input line 83.
+(pdftex.def)             Requested size: 287.87039pt x 196.7315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[5 <./BJT_reg_cir.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 108--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 137--161
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 164--189
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 192--217
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 221--247
+
+ []
+
+[10]
+<zener_vin_vout_1k.png, id=55, 1387.584pt x 665.6067pt>
+File: zener_vin_vout_1k.png Graphic file (type png)
+<use zener_vin_vout_1k.png>
+Package pdftex.def Info: zener_vin_vout_1k.png  used on input line 257.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 257--258
+ [][] 
+ []
+
+[11 <./zener_vin_vout_1k.png>]
+<zener_current_Irl_1k.png, id=60, 1387.584pt x 665.6067pt>
+File: zener_current_Irl_1k.png Graphic file (type png)
+<use zener_current_Irl_1k.png>
+Package pdftex.def Info: zener_current_Irl_1k.png  used on input line 263.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 263--264
+ [][] 
+ []
+
+[12 <./zener_current_Irl_1k.png>]
+<zener_current_Irs_1k.png, id=65, 1387.584pt x 665.6067pt>
+File: zener_current_Irs_1k.png Graphic file (type png)
+<use zener_current_Irs_1k.png>
+Package pdftex.def Info: zener_current_Irs_1k.png  used on input line 269.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 269--270
+ [][] 
+ []
+
+[13 <./zener_current_Irs_1k.png>]
+<zener_current_Iz_1k.png, id=71, 1387.584pt x 665.6067pt>
+File: zener_current_Iz_1k.png Graphic file (type png)
+<use zener_current_Iz_1k.png>
+Package pdftex.def Info: zener_current_Iz_1k.png  used on input line 275.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 275--276
+ [][] 
+ []
+
+[14 <./zener_current_Iz_1k.png>]
+<zener_vin_vout_500.png, id=76, 1387.584pt x 665.6067pt>
+File: zener_vin_vout_500.png Graphic file (type png)
+<use zener_vin_vout_500.png>
+Package pdftex.def Info: zener_vin_vout_500.png  used on input line 283.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 283--284
+ [][] 
+ []
+
+[15 <./zener_vin_vout_500.png>]
+<zener_vin_vout_100.png, id=81, 1387.584pt x 665.6067pt>
+File: zener_vin_vout_100.png Graphic file (type png)
+<use zener_vin_vout_100.png>
+Package pdftex.def Info: zener_vin_vout_100.png  used on input line 291.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 291--292
+ [][] 
+ []
+
+[16 <./zener_vin_vout_100.png>]
+<zener_vin_vout_10.png, id=86, 1387.584pt x 665.6067pt>
+File: zener_vin_vout_10.png Graphic file (type png)
+<use zener_vin_vout_10.png>
+Package pdftex.def Info: zener_vin_vout_10.png  used on input line 299.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 299--300
+ [][] 
+ []
+
+[17 <./zener_vin_vout_10.png>]
+<zener_vin_vout_1.png, id=91, 1387.584pt x 665.6067pt>
+File: zener_vin_vout_1.png Graphic file (type png)
+<use zener_vin_vout_1.png>
+Package pdftex.def Info: zener_vin_vout_1.png  used on input line 307.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 307--308
+ [][] 
+ []
+
+[18 <./zener_vin_vout_1.png>]
+<BJT_vin_vout.png, id=96, 1387.584pt x 665.6067pt>
+File: BJT_vin_vout.png Graphic file (type png)
+<use BJT_vin_vout.png>
+Package pdftex.def Info: BJT_vin_vout.png  used on input line 318.
+(pdftex.def)             Requested size: 416.27841pt x 199.68355pt.
+
+Overfull \hbox (26.27841pt too wide) in paragraph at lines 318--319
+ [][] 
+ []
+
+[19 <./Bjt_vin_vout.png>]
+Overfull \hbox (53.21014pt too wide) in paragraph at lines 327--341
+ [] 
+ []
+
+[20] (./report_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1737 strings out of 483183
+ 27309 string characters out of 5966292
+ 253684 words of memory out of 5000000
+ 16742 multiletter control sequences out of 15000+600000
+ 537506 words of font info for 41 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,7n,27p,494b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on report_2.pdf (20 pages, 607894 bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
